@@ -1,0 +1,1 @@
+nome = input("Olá, qual o seu nome: ")
