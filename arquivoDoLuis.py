@@ -7,3 +7,4 @@ def funcaoBoladona(nome, sexo):
 funcaoBoladona("Brian", "M")
 funcaoBoladona("Luís", "M")
 funcaoBoladona("Larissa", "F")
+funcaoBoladona("Marcelo", "M")
