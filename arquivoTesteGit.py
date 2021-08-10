@@ -1,3 +1,3 @@
-nome = input("Olá, qual o seu nome: ")
+nomeCompleto = input("Olá, qual o seu nome: ")
 
-print(f"Olá, {nome}! Tudo bem?")
+print(f"Olá, {nomeCompleto}! Tudo bem?")
